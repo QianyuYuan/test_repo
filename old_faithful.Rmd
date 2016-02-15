@@ -3,7 +3,7 @@ title: Old Faithful Geyser
 ---
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
-data set is a data set depicts the relationship 
+data set is set depicts the relationship 
 of the waiting time between eruptions and the duration of the 
 eruption for the Old Faithful geyser in Yellowstone National 
 Park, Wyoming, USA [[webcam]](http://yellowstone.net/webcams/). 
